@@ -1,5 +1,5 @@
 {
-    "name": "Culminating Project",
+    "name": "Project",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -19,7 +19,7 @@
         "branch": "v1.7.22",
         "tag": "v1.7.22",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/fa9cc16632907b4dd59f733b62e573beded922dc",
-        "target": "1.8.17",
+        "target": "1.8.20",
         "pxt": "7.3.23",
         "targetId": "arcade"
     },
